@@ -1,4 +1,4 @@
-package com.chap2.test.domain.Posts;
+package com.chap2.test.domain.posts;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
