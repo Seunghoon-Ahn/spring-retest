@@ -4,7 +4,7 @@ import com.chap2.test.config.auth.LoginUser;
 import com.chap2.test.config.auth.dto.SessionUser;
 import com.chap2.test.service.posts.PostsService;
 import com.chap2.test.web.dto.PostsResponseDto;
-import javafx.geometry.Pos;
+
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
