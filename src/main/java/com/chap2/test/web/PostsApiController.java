@@ -1,5 +1,4 @@
 package com.chap2.test.web;
-
 import com.chap2.test.service.posts.PostsService;
 import com.chap2.test.web.dto.PostsResponseDto;
 import com.chap2.test.web.dto.PostsSaveRequestDto;
